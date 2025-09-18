@@ -1,0 +1,27 @@
+Assignment 1 RubricThere are 4 graded questions, so that should be 2.5 points each. Everything is so straightforward that I don't see why there should be a problem. Part II, Problem 2 requires a screenshot, and if it is not included, mark off 1.25 points. The reason a screenshot is required is because we cannot know, for sure, if the student used command line arguments correctly to get the required output, and I want to see the student prove that they got it working.Another thing to mark small amounts of points off is not writing the letters correctly. If the basic letters are correct, I would not mark off more than 0.1 points per letter if it doesn't fit the pattern.
+
+For Part III, the way this should work is that nu and T should be passed in as parameters.
+-0.5 points if they don't do that. 
+
+They have to convert lambda to nu by calculating c/lambda
+
+Getting the equation right is worth 1.5 points (I've wrote it both ways)
+
+I had a typo in the equation so I've given two solutions. The results should be:
+
+Also, these are the corrected versions for converted to m from nm:
+
+For the sun: 
+6.0422 ^ 10-8 for the typo result
+2.2384 & 10-8 for the corrected equation
+
+If the students use the original (wrong) wavelength for the sun, the answers are:
+9.16759 ^ 10-8 and
+3.6556 ^ 10-8
+
+
+For Betelgeuse:
+1.7064 ^ 10-8 for the typo result
+6.369 ^ 10-9 for the corrected equation
+
+
